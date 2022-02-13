@@ -1,0 +1,32 @@
+<?php
+return [
+  'name'=>'اسم الطبيب',
+
+    'doctor_title'=>'المسمى',
+    'country' =>'الدولة',
+    'city'=>'المدينة',
+    'area'=>'المنطقة',
+    'email'=>'البريد الالكتروني',
+    'mobile'=>'الجوال',
+    'nationality'=>'الجنسية',
+    'dob'=>'تاريخ الميلاد',
+    'gender' =>'الجنس',
+    'Female'=>'أنثى',
+    'male'=>'ذكر',
+    'other'=>'اخرى',
+    'cash_price'=>'السعر',
+    'insurance_price'=>'التأمين',
+    'image'=>'الصورة',
+    'image_baner'=>' صورة الشعار ',
+    'description'=>'الوصف ',
+    'banner_video'=>'فيديو الشعار',
+    'password'=>'كلمة المرور',
+    'genrate_password'=>'انشاء كلمة مرور',
+    'title'=>'الأطباء',
+    'update'=>'تعديل طبيب',
+    'new'=>'إضافة طبيب',
+    'specialties'=>'التخصصات',
+    'center'=>'المركز',
+    'insurance_companies'=>'شركات التأمين',
+    'insurance_company'=>'شركة التأمين'
+];

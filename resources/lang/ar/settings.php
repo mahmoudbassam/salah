@@ -1,0 +1,36 @@
+<?php
+return [
+    'title' => 'الإعدادت',
+    'save'=>'حفظ',
+    'about_us_en'=>'عن مرهم بالانجليزية',
+    'about_us_ar'=>'عن مرهم بالعربية',
+    'why_marham_title_ar'=>'عنوان لماذا مرهم بالعربية',
+    'why_marham_title_en'=>'عنوان لماذا مرهم بالانجليزية',
+    'why_marham_description_ar'=>'لماذا مرهم الوصف بالعربية',
+    'why_marham_description_en'=>'لماذا مرهم الوصف بالإنجليزية',
+    'footer_apps_title_ar'=>'العنوان السفلي للتطبيقات بالعربية',
+    'footer_apps_title_en'=>'العنوان السفلي للتطبيقات بالانجليزية',
+    'footer_apps_description_ar'=>'وصف التذييل للتطبيقات بالعربية ',
+    'footer_apps_description_en'=>'وصف التذييل للتطبيقات بالإنجليزية ',
+    'footer_title_ar'=>'العنوان السفلي للتطبيق بالعربية',
+    'footer_title_en'=>'العنوان السفلي للتطبيق بالانجليزية',
+    'footer_description_ar'=>'وصف التذييل للتطبيق بالعربية ',
+    'footer_description_en'=>'وصف التذييل للتطبيق بالانجليزية ',
+    'address'=>'العنوان',
+    'contact_us_title_ar'=>'   تواصل معنا العنوان بالعربية',
+    'contact_us_title_en'=>'تواصل معنا العنوان بالانجليزية',
+    'email'=>'البريد الالكتروني',
+    'moblie'=>'الجوال',
+    'phone'=>'الهاتف',
+    'facebook'=>'فيسبوك',
+    'twitter'=>'تويتر',
+    'instagram'=>'انستقرام',
+    'linkedin'=>'لينكد ان',
+    'marham_logo'=>'صورة اللوقو لمرهم',
+    'footer_apps_image'=>'صورة التذييل',
+    'success'=>'تم التحديث بنجاح',
+    'code'=>'النقاط للكود',
+
+
+
+];
